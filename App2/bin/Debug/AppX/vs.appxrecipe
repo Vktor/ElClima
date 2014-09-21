@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIKTOR-LAPTOP</Machine>
+    <WindowsUser>viktor</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A63DBEE6C80C79831E1D13EC7ECF040CE4935202AF75EB4DCA653BBE773E12E8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>082820ee-56f0-49a1-9f97-5307f74030d2_1.0.0.0_neutral__r4pbg5mz5kh7r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>082820ee-56f0-49a1-9f97-5307f74030d2_r4pbg5mz5kh7r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>082820ee-56f0-49a1-9f97-5307f74030d2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=viktor</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-21T00:00:07.916</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\App2.exe">
+      <PackagePath>App2.exe</PackagePath>
+      <Modified>2014-09-21T01:06:32.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\App2.pdb">
+      <PackagePath>App2.pdb</PackagePath>
+      <Modified>2014-09-21T01:06:32.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T00:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\nubes.png">
+      <PackagePath>Assets\nubes.png</PackagePath>
+      <Modified>2014-09-20T07:27:48.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\nubess.png">
+      <PackagePath>Assets\nubess.png</PackagePath>
+      <Modified>2014-09-20T23:41:08.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\nublado2.png">
+      <PackagePath>Assets\nublado2.png</PackagePath>
+      <Modified>2014-09-20T23:02:51.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\rayos.png">
+      <PackagePath>Assets\rayos.png</PackagePath>
+      <Modified>2014-09-20T23:41:46.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T00:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\sol.png">
+      <PackagePath>Assets\sol.png</PackagePath>
+      <Modified>2014-09-20T23:42:29.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T00:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T00:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-02-01T08:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-02-01T08:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-02-01T08:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\termometro.png">
+      <PackagePath>Assets\termometro.png</PackagePath>
+      <Modified>2014-09-20T22:12:15.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\Assets\termometro2.png">
+      <PackagePath>Assets\termometro2.png</PackagePath>
+      <Modified>2014-09-20T23:33:19.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-09-20T21:19:55.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-27T03:24:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+      <Modified>2014-09-21T01:06:07.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2014-09-20T21:11:50.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\viktor\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-21T00:00:07.346</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
